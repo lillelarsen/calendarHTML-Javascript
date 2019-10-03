@@ -1,0 +1,14 @@
+{
+  "name": "calendarhtml-javascript-master",
+  "version": "1.0.0",
+  "description": "The program uses Date() function to build a simple calendar with Pure JavaScript and HTML.  Here's the final implementation of it - http://iamnitinpatel.com/projects/calendar",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SL",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
